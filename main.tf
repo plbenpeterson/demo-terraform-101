@@ -3,6 +3,7 @@ terraform {
 }
 
 provider "aws" {
+  #updated for training demo
   version = ">= 1.20.0"
 }
 
